@@ -199,3 +199,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/sdm632-common/BoardConfigVendor.mk
+
+# OTA 
+TARGET_OTA_ASSERT_DEVICE := onc,onclite,Onc,Onclite,Redmi 7,Redmi Y3 
