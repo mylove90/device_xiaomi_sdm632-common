@@ -327,7 +327,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
     libcld80211 \
-    libqsap_sdk \
+    #libqsap_sdk \
     libQWiFiSoftApCfg \
     libwpa_client \
     hostapd \
